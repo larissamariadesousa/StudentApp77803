@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">StudentApp77803</string>
+
+    <string name="home_heading">Student Registry</string>
+    <string name="home_subtitle">Register new students or look up an existing one by ID.</string>
+    <string name="btn_go_register">Register a student</string>
+    <string name="btn_go_search">Search for a student</string>
+
+    <string name="register_hint_id">The Student ID is generated automatically when you save.</string>
+    <string name="label_name">Name</string>
+    <string name="label_course">Course</string>
+    <string name="label_year">Year</string>
+    <string name="helper_year">A number from 1 to 4</string>
+    <string name="btn_save">Save student</string>
+
+    <string name="label_student_id">Student ID</string>
+    <string name="btn_search">Search</string>
 </resources>
