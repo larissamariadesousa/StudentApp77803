@@ -1,7 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.StudentApp77803" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/nude_primary_dark</item>
+        <item name="colorOnPrimary">@color/nude_on_primary_dark</item>
+        <item name="colorPrimaryContainer">@color/nude_primary_container_dark</item>
+        <item name="colorOnPrimaryContainer">@color/nude_on_primary_container_dark</item>
+        <item name="android:colorBackground">@color/nude_background_dark</item>
+        <item name="colorOnBackground">@color/nude_on_background_dark</item>
+        <item name="colorSurface">@color/nude_background_dark</item>
+        <item name="colorOnSurface">@color/nude_on_background_dark</item>
     </style>
 </resources>

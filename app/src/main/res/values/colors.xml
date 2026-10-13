@@ -2,4 +2,19 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="nude_primary">#7D5A4F</color>
+    <color name="nude_on_primary">#FFFFFF</color>
+    <color name="nude_primary_container">#E8D5C8</color>
+    <color name="nude_on_primary_container">#3E2A22</color>
+    <color name="nude_background">#FBF6F2</color>
+    <color name="nude_on_background">#2B211D</color>
+    <color name="nude_card">#F1E4DA</color>
+
+    <color name="nude_primary_dark">#D9B8A8</color>
+    <color name="nude_on_primary_dark">#3E2A22</color>
+    <color name="nude_primary_container_dark">#5C4339</color>
+    <color name="nude_on_primary_container_dark">#F3E3D9</color>
+    <color name="nude_background_dark">#1E1916</color>
+    <color name="nude_on_background_dark">#EDE0D8</color>
 </resources>

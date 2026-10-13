@@ -1,8 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
     <style name="Base.Theme.StudentApp77803" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/nude_primary</item>
+        <item name="colorOnPrimary">@color/nude_on_primary</item>
+        <item name="colorPrimaryContainer">@color/nude_primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/nude_on_primary_container</item>
+        <item name="android:colorBackground">@color/nude_background</item>
+        <item name="colorOnBackground">@color/nude_on_background</item>
+        <item name="colorSurface">@color/nude_background</item>
+        <item name="colorOnSurface">@color/nude_on_background</item>
     </style>
 
     <style name="Theme.StudentApp77803" parent="Base.Theme.StudentApp77803" />
