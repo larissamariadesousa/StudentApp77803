@@ -10,7 +10,8 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
-        android:background="?attr/colorPrimaryContainer" />
+        android:background="?attr/colorPrimaryContainer"
+        app:titleTextColor="?attr/colorOnPrimaryContainer" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/nav_host_fragment"
